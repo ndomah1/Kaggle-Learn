@@ -1,7 +1,8 @@
-# Kaggle-Learn
-This repo contains all the scripts I worked on from Kaggle Learn
+# Kaggle Learn
+This repo contains all the scripts I worked on from [Kaggle Learn](https://www.kaggle.com/learn).
 
 ## Table of Contents
+
 
 ## Phase 1: Foundation in Programming & Data Handling
 1. Intro to Programming
