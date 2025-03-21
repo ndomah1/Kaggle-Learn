@@ -1,6 +1,6 @@
 # Kaggle Learn
 This repo contains all the scripts I worked on from [Kaggle Learn](https://www.kaggle.com/learn).
----
+
 ## Phase 1: Foundation in Programming & Data Handling
 ### [Intro to Programming]() - If you're completely new to coding.
 1. [Arithmetic and Variables]() - Make calculations, and define and modify variables.
